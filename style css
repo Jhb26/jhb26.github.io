@@ -15,7 +15,7 @@
     --warna-permukaan: rgba(255, 255, 255, 0.1);
     --warna-sorotan: rgba(255, 255, 255, 0.2);
     --warna-permukaan-hover: rgba(255, 255, 255, 0.05);
-    --url-bg-switch: url("./assets/moon-stars.svg");
+    --url-bg-switch: url("moon.svg");
 }
 
 /* Variabel CSS untuk tema terang */
@@ -26,7 +26,7 @@
     --warna-permukaan: rgba(0, 0, 0, 0.05);
     --warna-sorotan: rgba(0, 0, 0, 0.1);
     --warna-permukaan-hover: rgba(0, 0, 0, 0.02);
-    --url-bg-switch: url("./assets/sun.svg");
+    --url-bg-switch: url("sun.svg");
 }
 
 /* Gaya untuk body */
