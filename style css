@@ -10,7 +10,7 @@
 /* Variabel CSS untuk tema gelap */
 :root {
     --warna-teks: #fff;
-    --url-bg: url("./assets/bg-mobile.jpg");
+    --url-bg: url("gelap.jpg");
     --warna-garis: rgba(255, 255, 255, 0.5);
     --warna-permukaan: rgba(255, 255, 255, 0.1);
     --warna-sorotan: rgba(255, 255, 255, 0.2);
@@ -21,7 +21,7 @@
 /* Variabel CSS untuk tema terang */
 .light {
     --warna-teks: #000;
-    --url-bg: url("./assets/bg-mobile-light.jpg");
+    --url-bg: url("terang.jpg");
     --warna-garis: rgba(0, 0, 0, 0.5);
     --warna-permukaan: rgba(0, 0, 0, 0.05);
     --warna-sorotan: rgba(0, 0, 0, 0.1);
