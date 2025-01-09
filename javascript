@@ -10,7 +10,7 @@ function toggleMode() {
         // Ganti gambar dengan avatar-light
         img.src = "rb.png";
         // Tambahkan atribut title menjadi "Semoga kekuatan menyertaimu"
-        img.title = "Semoga kekuatan menyertaimu";
+        img.title = "Allah selalu bersamamu";
         img.alt = "Foto profil mode terang";
     } else {
         // Tema gelap
