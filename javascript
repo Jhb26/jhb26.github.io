@@ -15,7 +15,7 @@ function toggleMode() {
     } else {
         // Tema gelap
         // Pertahankan gambar normal (avatar)
-        img.src = "owh1.png";
+        img.src = "klik.png";
         img.alt = "Foto profil mode gelap";
         img.title = "Datanglah ke Sisi Gelap Bulan";
     }
