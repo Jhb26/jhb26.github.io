@@ -8,7 +8,7 @@ function toggleMode() {
     if (html.classList.contains("light")) {
         // Tema terang
         // Ganti gambar dengan avatar-light
-        img.src = "./assets/avatar-light.png";
+        img.src = "rb.png";
         // Tambahkan atribut title menjadi "Semoga kekuatan menyertaimu"
         img.title = "Semoga kekuatan menyertaimu";
         img.alt = "Foto profil mode terang";
