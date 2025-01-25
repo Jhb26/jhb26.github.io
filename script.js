@@ -8,14 +8,14 @@ function toggleMode() {
     if (html.classList.contains("light")) {
         // Tema terang
         // Ganti gambar dengan avatar-light
-        img.src = "rb.png";
+        img.src = "satu.png";
         // Tambahkan atribut title menjadi "Semoga kekuatan menyertaimu"
         img.title = "Allah selalu bersamamu";
         img.alt = "Foto profil mode terang";
     } else {
         // Tema gelap
         // Pertahankan gambar normal (avatar)
-        img.src = "klik.png";
+        img.src = "satu.png";
         img.alt = "Foto profil mode gelap";
         img.title = "Datanglah ke Sisi Gelap Bulan";
     }
